@@ -28,6 +28,8 @@ TO FIX:
 
 Next Download this file and then open the folder.  I promise there is no malware or anything negative, just a few simple files.  (Copy and paste if below link doesn't work)
 http://tore.cnc-comm.com/TS_Win8fix.zip
+or
+https://github.com/Aaron1515/CnC-Tiberian-Sun-Fix/blob/master/Tiberian%20Sun%20-%20Fix.rar
 Click to save the file and once it downloads open the folder, you should see the file Win8fix, open this and follow remaining instructions
 
 1. Once again Open File Explorer   

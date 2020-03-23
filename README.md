@@ -10,9 +10,9 @@ Find latest release at https://github.com/CnCNet/cnc-ddraw/releases
 TO FIX:
 
 1. Open File Explorer   (You can do this easily by right clicking the little window or Start on the bottom left of your screen and selecting File Explorer)
-..1 Click Windows_OS :C (C Drive)
-..1 Open Program Files (x86)
-..1 Open Origin Games Folder (not Origin)
+2. Click Windows_OS :C (C Drive)
+3. Open Program Files (x86)
+4. Open Origin Games Folder (not Origin)
 Open Command & Conquer Tiberium Sun Folder (keep this window open for step two)
 Scroll down until you find the Game (File Type Application)
 Highlight game by single clicking on it, then right click to bring up the pop-up menu
